@@ -31,7 +31,6 @@ end;
 
 destructor TModelException.Destroy;
 begin
-
   inherited;
 end;
 
